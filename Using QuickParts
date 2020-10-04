@@ -1,6 +1,6 @@
-# QuickParts #
+# QuickParts
 When creating a document from scratch, sometimes it's helpful to save a template of some text or a section to reuse throughout the document. 
-Note: Updating text added using QuickParts does not automatically update any other text that was added using the QuickParts item.
+| **Note:**|Updating text added using QuickParts does not automatically update any other text that was added using the QuickParts item.
 1. In Word, select the text or section to reuse.
 2. Select: Insert > Quick Parts > Save Selection to QuickParts Gallery.	
 3. Move to the next place in the Word document where you want to reuse the text/section.
